@@ -1,0 +1,10 @@
+{
+  "name": "zotero-local-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zotero 7 本地文献库双通道工具集：只读直连 zotero.sqlite + 本地 API 写操作",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}

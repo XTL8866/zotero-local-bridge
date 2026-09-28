@@ -1,0 +1,23 @@
+# Zotero 授权 key（千万不能提交）
+.zotero_keys.json
+scripts/.zotero_keys.json
+
+# 运行输出
+*.txt
+!README*.txt
+*.json
+!package.json
+*.bib
+*.ris
+*.csv
+
+# Python / Node
+__pycache__/
+*.pyc
+node_modules/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
